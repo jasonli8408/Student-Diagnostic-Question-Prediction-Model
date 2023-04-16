@@ -6,4 +6,6 @@ In part a we explored models such as K Nearest Neighbors, Item Response Theory, 
 
 In part b we improved model performance by extending Item Response Theory (IRT) to consider student demographics.
 
+Details can found in `final_report.pdf`
+
 Some of the source code belongs to CSC311 Course Team
